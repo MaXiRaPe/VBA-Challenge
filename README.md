@@ -149,8 +149,7 @@ End Sub
 
 # Attachments
 ## Excel file with enabled Macro: Multiple_year_stock_data_MXR_final.xlm
-## Screen captures: 1- Macro Start.png, 2- Macro End.png, 3- Q1 Worksheet output.png, 4- Q2 Worksheet output.png, 
-5- Q3 Worksheet output.png, 6- Q4 Worksheet output.png
+## Screen captures: 1- Macro Start.png, 2- Macro End.png, 3- Q1 Worksheet output.png, 4- Q2 Worksheet output.png, 5- Q3 Worksheet output.png, 6- Q4 Worksheet output.png
 
 # Credits
 ## In addition to the class exercises, I used different online searches to understand better the syntax and coding options to complete the task. In particular I used as a reference the book "Excel VBA in Easy Steps", 3rd edition by Mike Grath.
